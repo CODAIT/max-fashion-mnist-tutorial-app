@@ -5,7 +5,7 @@ In this tutorial, we will build a Python web app to integrate the MAX-Fashion-MN
 # Instructions
 ## 1. Start the MAX-Fashion-MNIST model API
 
-Deploy the fashion MNIST model using the steps provided here: [LINK](https://github.com/CODAIT/2019_ODSC-West/tree/master/max-fashion-mnist-wrapping-solution#build-the-model-docker-image)
+Deploy the fashion MNIST model using the steps provided here: [LINK](https://github.com/CODAIT/presentations/tree/master/workshops/2019-10-29_ODSC-WEST/max-fashion-mnist-wrapping-solution#build-the-model-docker-image)
 
 You can choose to either..
 
@@ -60,7 +60,7 @@ $ cd max-fashion-mnist-tutorial-app
 
 The Python code to run this web applicaton template is contained in the `app.py` file. This file contains **TODO**-comments and intructions that need to be completed to adjust this webapp template for our MAX-Fashion-MNIST model.
 
-_NOTE: The solution can be found here: [Link](https://github.com/CODAIT/2019_ODSC-West/blob/master/max-fashion-mnist-webapp-solution/app.py)._
+_NOTE: The solution can be found here: [Link](https://github.com/CODAIT/presentations/blob/master/workshops/2019-10-29_ODSC-WEST/max-fashion-mnist-webapp-solution/app.py)._
 
 Find the `TODO` comments in the `app.py` code (use CMD-F or CTRL-F). You will find three hits.
 
