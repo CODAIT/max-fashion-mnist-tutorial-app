@@ -60,7 +60,7 @@ $ cd max-fashion-mnist-tutorial-app
 
 The Python code to run this web applicaton template is contained in the `app.py` file. This file contains **TODO**-comments and intructions that need to be completed to adjust this webapp template for our MAX-Fashion-MNIST model.
 
-_NOTE: The solution can be found here: [Link](https://github.com/CODAIT/2019_ODSC-West)._
+_NOTE: The solution can be found here: [Link](https://github.com/CODAIT/2019_ODSC-West/blob/master/max-fashion-mnist-webapp-solution/app.py)._
 
 Find the `TODO` comments in the `app.py` code (use CMD-F or CTRL-F). You will find three hits.
 
