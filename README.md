@@ -1,0 +1,1 @@
+# max-fashion-mnist-tutorial-app
